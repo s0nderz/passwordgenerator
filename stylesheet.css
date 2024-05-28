@@ -61,8 +61,10 @@ hr {
     padding-bottom: 15px;
     padding-left: 15px;
     padding-right: 15px;
-    width: 150px;
+    width: 45%;
+    margin-left: 2.5%;
     display: inline-flex;
+    box-sizing: border-box;
 }
 
 #password2 {
@@ -76,6 +78,7 @@ hr {
     padding-bottom: 15px;
     padding-left: 15px;
     padding-right: 15px;
-    width: 150px;
+    width: 45%;
     display: inline-flex;
+    box-sizing: border-box;
 }
